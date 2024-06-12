@@ -1,4 +1,4 @@
-I'm Suleyman, a passionate software engineering student currently in my third year of bachelor's degree. I thrive on building exciting projects and exploring the endless possibilities of technology. Currently, I'm honing my skills as a full-stack developer at Sharebox AS, where I get to transform ideas into innovative solutions.
+I'm Suleyman, a passionate software engineer. I thrive on building exciting projects and exploring the endless possibilities of technology. Currently, I'm honing my skills as a full-stack developer at Sharebox AS, where I get to transform ideas into innovative solutions.
 
 - **Full-stack Development:** From frontend magic to backend wizardry, I love crafting seamless user experiences and robust server-side logic.
 - **Problem Solving:** Whether it's debugging a tricky issue or architecting a scalable system, I enjoy the challenge of solving complex problems.
